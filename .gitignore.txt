@@ -1,3 +1,23 @@
+# Build files
 build/
-*.old
+
+# Object files
 *.o
+*.obj
+
+# Backup files
+*.old
+
+# ESP-IDF generated files
+sdkconfig
+sdkconfig.old
+dependencies.lock
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Mac / Linux junk
+.DS_Store
