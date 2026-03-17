@@ -3,4 +3,8 @@
 cmake_minimum_required(VERSION 3.16)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
+        
+ # phải có cái này để component có thể include file header của component khác
+        set (EXTRA_COMPONENT_DIRS ${CMAKE_CURRENT_LIST_DIR}/common)
+
 project(blink)

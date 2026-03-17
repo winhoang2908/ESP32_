@@ -817,6 +817,13 @@ D:/esp/blink/build/esp-idf/espressif__led_strip/CMakeFiles/list_install_componen
 D:/esp/blink/build/esp-idf/espressif__led_strip/CMakeFiles/install.dir
 D:/esp/blink/build/esp-idf/espressif__led_strip/CMakeFiles/install/local.dir
 D:/esp/blink/build/esp-idf/espressif__led_strip/CMakeFiles/install/strip.dir
+D:/esp/blink/build/esp-idf/input_iot/CMakeFiles/__idf_input_iot.dir
+D:/esp/blink/build/esp-idf/input_iot/CMakeFiles/edit_cache.dir
+D:/esp/blink/build/esp-idf/input_iot/CMakeFiles/rebuild_cache.dir
+D:/esp/blink/build/esp-idf/input_iot/CMakeFiles/list_install_components.dir
+D:/esp/blink/build/esp-idf/input_iot/CMakeFiles/install.dir
+D:/esp/blink/build/esp-idf/input_iot/CMakeFiles/install/local.dir
+D:/esp/blink/build/esp-idf/input_iot/CMakeFiles/install/strip.dir
 D:/esp/blink/build/esp-idf/main/CMakeFiles/__idf_main.dir
 D:/esp/blink/build/esp-idf/main/CMakeFiles/edit_cache.dir
 D:/esp/blink/build/esp-idf/main/CMakeFiles/rebuild_cache.dir

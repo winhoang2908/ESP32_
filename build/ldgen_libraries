@@ -80,4 +80,5 @@ D:/esp/blink/build/esp-idf/perfmon/libperfmon.a
 D:/esp/blink/build/esp-idf/spiffs/libspiffs.a
 D:/esp/blink/build/esp-idf/wifi_provisioning/libwifi_provisioning.a
 D:/esp/blink/build/esp-idf/espressif__led_strip/libespressif__led_strip.a
+D:/esp/blink/build/esp-idf/input_iot/libinput_iot.a
 D:/esp/blink/build/esp-idf/main/libmain.a
